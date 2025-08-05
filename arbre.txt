@@ -1,0 +1,90 @@
+.
+├── arbre.txt
+├── backend
+│   ├── config
+│   │   └── db.js
+│   ├── controllers
+│   │   └── userController.js
+│   ├── middleware
+│   │   └── authMiddleware.js
+│   ├── models
+│   │   ├── Annonce.js
+│   │   └── User.js
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── playground-1.mongodb.js
+│   ├── routes
+│   │   ├── annonceRoutes.js
+│   │   └── userRoutes.js
+│   ├── server.js
+│   ├── uploads
+│   └── utils
+│       └── generateToken.js
+├── frontend
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── favicon.ico
+│   │   ├── Images
+│   │   │   ├── autres.jpeg
+│   │   │   ├── default.jpeg
+│   │   │   ├── electronique.jpeg
+│   │   │   ├── emploi.jpeg
+│   │   │   ├── facebook-icon.png
+│   │   │   ├── famille.jpeg
+│   │   │   ├── immobilier.jpeg
+│   │   │   ├── instagram-icon.png
+│   │   │   ├── loisirs.jpeg
+│   │   │   ├── maison-jardin.jpeg
+│   │   │   ├── mode.jpeg
+│   │   │   ├── services.jpeg
+│   │   │   ├── twitter-icon.png
+│   │   │   └── vehicules.jpeg
+│   │   ├── index.html
+│   │   ├── logo192.png
+│   │   ├── logo512.png
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   ├── README.md
+│   └── src
+│       ├── App.css
+│       ├── App.js
+│       ├── App.test.js
+│       ├── components
+│       │   ├── AnnonceDetail.js
+│       │   ├── AnnonceForm.js
+│       │   ├── AnnoncesList.js
+│       │   ├── FeaturedAnnonces.js
+│       │   ├── Footer.js
+│       │   ├── Header.js
+│       │   ├── HeaderIcons.js
+│       │   ├── Home.js
+│       │   ├── LoginRegister.js
+│       │   ├── MapRegionSelector.js
+│       │   └── SearchBar.js
+│       ├── css
+│       │   ├── AnnonceDetail.css
+│       │   ├── AnnonceForm.css
+│       │   ├── AnnoncesList.css
+│       │   ├── FeaturedAnnonces.css
+│       │   ├── Footer.css
+│       │   ├── Header.css
+│       │   ├── HeaderIcons.css
+│       │   ├── Home.css
+│       │   ├── LoginRegister.css
+│       │   ├── MapRegionSelector.css
+│       │   └── SearchBar.css
+│       ├── data
+│       │   ├── gadm41_CIV_1.json
+│       │   ├── gadm41_CIV_2.json
+│       │   ├── gadm41_CIV_3.json
+│       │   └── gadm41_CIV_4.json
+│       ├── index.css
+│       ├── index.js
+│       ├── logo.svg
+│       ├── reportWebVitals.js
+│       └── setupTests.js
+├── package-lock.json
+└── package.json
+
+16 directories, 72 files
